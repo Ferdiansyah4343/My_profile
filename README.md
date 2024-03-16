@@ -17,10 +17,6 @@
   CSS3 - Styling the web with elegance and finesse.
 </p>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/><br/>
-  Express.js - Fast, unopinionated, minimalist web framework for Node.js.
-</p>
-<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><br/>
   HTML5 - The standard markup language for creating web pages and web applications.
 </p>
